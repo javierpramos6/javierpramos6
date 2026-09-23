@@ -1,16 +1,13 @@
-## Hi there 👋
+##**MSc Student in Bioinformatics & Computational Biology**
 
-<!--
-**javierpramos6/javierpramos6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##**Working on technical skills like**
+- Python, R, Bash
+- Git/GitHub
+- Linux/WSL
+- Conda/Mamba
+- Statistical data analysis
+- Computational genomics
+- Reproducible workflows
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: www.linkedin.com/in/javier-paredes-ramos-574aa7310
+E-mail: javierpramos6@gmail.com
